@@ -1,0 +1,26 @@
+{
+  "name": "translate-udemy-with-deepl",
+  "version": "1.0.0",
+  "description": "",
+  "private": true,
+  "dependencies": {
+    "webpack": "^5.53.0"
+  },
+  "devDependencies": {
+    "webpack-cli": "^4.8.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yama0401/translate-udemy-with-deepl.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yama0401/translate-udemy-with-deepl/issues"
+  },
+  "homepage": "https://github.com/yama0401/translate-udemy-with-deepl#readme"
+}

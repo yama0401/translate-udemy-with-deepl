@@ -1,0 +1,8 @@
+{
+    "manifest_version":2,
+    "name":"translate udemy",
+    "version":"1.0",
+    "browser_action": {
+        "default_popup": "popup.html"
+    }
+}
