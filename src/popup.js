@@ -17,9 +17,6 @@ function start() {
     var request = new Request("https://api-free.deepl.com/v2/translate", );
 
     fetch("https://api-free.deepl.com/v2/translate", {"method":method, "headers":headers, "body":data})
-    .then((res) => res.json())
-    .then(j => console.log(j))
+    .then((res) => console.log(res.json()))
     .catch(console.error);
 }
-
-
